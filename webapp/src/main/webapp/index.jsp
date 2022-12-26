@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>HI Im come from Git local for testing automation for DevOps Learning</h1>
+    <h1>New trail 2 CICD</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
