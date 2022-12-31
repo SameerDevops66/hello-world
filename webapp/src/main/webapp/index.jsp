@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New trail 2 CICD</h1>
+    <h1> 2 time praticing the CICD project for better understand</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> CICD proejct From Local GIT </h1>
+   <h1> HI we come from Local process of CICD </h1>
 
   
 </form>
