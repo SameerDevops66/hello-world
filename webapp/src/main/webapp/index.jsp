@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1> Squencess order CICD. ):( </h1>
-    <p>HIIIIIIIIIIIIIIIIIIIJJJAAAAAA!$#@.</p>
+    <p> Build , Test , QA , Deploy , Release projet here is the out out </p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
