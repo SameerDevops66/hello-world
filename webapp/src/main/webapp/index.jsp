@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1> Squencess order CICD. ):( </h1>
-    <p> Build , Test , QA , Deploy , Release projet here is the out out.. </p>
+    <p> HELLO CICD </p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> HI we come from Local process of CICD </h1>
+   <h1>  HELOO CICDDDD </h1>
 
   
 </form>
