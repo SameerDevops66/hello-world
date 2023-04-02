@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: Slave
+  name:
 
 steps:
 - script: echo Hello, world!
